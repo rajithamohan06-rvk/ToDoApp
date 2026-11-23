@@ -1,0 +1,15 @@
+{
+  "name": "simple-todo-app",
+  "version": "1.0.0",
+  "description": "A clean, simple to-do application built with Node.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node test.js"
+  },
+  "keywords": ["todo", "nodejs", "clean-ui"],
+  "author": "",
+  "license": "ISC"
+}
